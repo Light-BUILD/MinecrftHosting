@@ -29,7 +29,7 @@ What you have learnt after the course
 ## 30 Days Of Minecraft Hosting
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                                                             [Introduction](./img/day1.md)                                                             |
+| 01    |                                                             [Introduction](./days/day1.md)                                                             |
 | 02    |                                                                                              |
 | 03    |                                                        |
 | 04    |                                                                                         |
