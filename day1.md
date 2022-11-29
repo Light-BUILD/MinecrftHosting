@@ -3,8 +3,8 @@
 	- [Introduction](#introduction)
 	- [Requirements](#requirements)
 	- [Hosting](#hosting)
-		- [The-First-Method](#The-First-Method(On-your-own-Computer/pc))
-		- [The Second Method](#The-Second-Method(On-a-Hosting-Website))
+		- [The-First-Method](#the-first-methodon-your-own-computerpc)
+		- [The Second Method](#the-second-methodon-a-hosting-website)
 	- [Creating Account](#Creating-a-Account)
 
 
