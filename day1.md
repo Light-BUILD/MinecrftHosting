@@ -52,4 +52,19 @@ Some of them are-
 
 **Note** Dont use falix if you dont know nothing about Server Developing becuse there are many option you can get confused After learning you can use.
 
-## Creating a Account
+## Creating a 
+First you need to create a account-
+1. Go to https://aternos.org/
+2. Click on Play
+3. Click on sign up with google
+4. Choose account
+5. Click on Create Server
+
+<details>
+<summary>Click To show Images</summary>
+<img src = "./img/Step1.png">
+<img src = "./img/step2.png">
+<img src = "./img/step3.png">
+<img src = "./img/step4.png">
+<img src = "./img/step5.png">
+</details>
