@@ -1,4 +1,4 @@
-![twenty Days Of McHosting](./image.png)
+![twenty Days Of McHosting](../image.png)
 - [📔 Day 1](#-day-1)
 	- [Introduction](#introduction)
 	- [Requirements](#requirements)
@@ -62,9 +62,9 @@ First you need to create a account-
 
 <details>
 <summary>Click To show Images</summary>
-<img src = "./img/Step1.png">
-<img src = "./img/step2.png">
-<img src = "./img/step3.png">
-<img src = "./img/step4.png">
-<img src = "./img/step5.png">
+<img src = "../img/Step1.png">
+<img src = "../img/step2.png">
+<img src = "../img/step3.png">
+<img src = "../img/step4.png">
+<img src = "../img/step5.png">
 </details>
