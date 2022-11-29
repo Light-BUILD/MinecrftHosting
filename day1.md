@@ -2,17 +2,10 @@
 - [📔 Day 1](#-day-1)
 	- [Introduction](#introduction)
 	- [Requirements](#requirements)
-	- [Setup](#setup)
-		- [Install Node.js](#install-nodejs)
-		- [Browser](#browser)
-			- [Installing Google Chrome](#installing-google-chrome)
-			- [Opening Google Chrome Console](#opening-google-chrome-console)
-			- [Writing Code on Browser Console](#writing-code-on-browser-console)
-				- [Console.log](#consolelog)
-				- [Console.log with Multiple Arguments](#consolelog-with-multiple-arguments)
-				- [Comments](#comments)
-				- [Syntax](#syntax)
-
+	- [Hosting](#hosting)
+		- [The-First-Method](#The-First-Method(On-your-own-Computer/pc))
+		- [The Second Method](#The-Second-Method(On-a-Hosting-Website))
+	- [Creating Account](#Creating-a-Account)
 
 
 
@@ -40,7 +33,7 @@ There are two ways you can host your Server
 1. On Your own Computer/VPS etc
 2. Online on a Minecraft Server hosting website
 
-### The First Method - On your own Computer/pc-
+### The First Method(On your own Computer/pc)
 
 This is not the best option for you, For some reasons-Note
 1. You Need a Computer/Pc for it
@@ -50,7 +43,7 @@ This is not the best option for you, For some reasons-Note
 5. If have lower ram then can't play or do something while server is online
 6. Require High Speed Internet Also
 
-### The Second Method - On a Hosting Website
+### The Second Method(On a Hosting Website)
 
 This is best way, You dont need anything in this. If you have some money then can buy a good server host or other wise can use free host
 Some of them are-
