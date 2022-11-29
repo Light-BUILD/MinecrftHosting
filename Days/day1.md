@@ -52,7 +52,7 @@ Some of them are-
 
 **Note** Dont use falix if you dont know nothing about Server Developing becuse there are many option you can get confused After learning you can use.
 
-## Creating a 
+## Creating a Server
 First you need to create a account-
 1. Go to https://aternos.org/
 2. Click on Play
